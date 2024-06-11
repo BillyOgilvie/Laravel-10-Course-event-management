@@ -44,16 +44,16 @@ class AttendeePolicy
     /**
      * Determine whether the user can restore the model.
      */
-    public function restore(User $user, Attendee $attendee): bool
-    {
-        //
-    }
+    // public function restore(User $user, Attendee $attendee): bool
+    // {
+    //     //
+    // }
 
     /**
      * Determine whether the user can permanently delete the model.
      */
-    public function forceDelete(User $user, Attendee $attendee): bool
-    {
-        //
-    }
+    // public function forceDelete(User $user, Attendee $attendee): bool
+    // {
+    //     //
+    // }
 }
